@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Huiping.
-- 💞️ I’m looking to collaborate on Data Analytics and AI project,available both on site and virtual.
+- 💞️ I’m looking to collaborate on data Analytics and AI projects,available both on site and virtual.
 
 
 <!---
