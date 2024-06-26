@@ -2,10 +2,6 @@
 - 💞️ I’m looking to collaborate on data Analytics and AI projects,available both on site and virtual.
 - ✅ Languages: English, German, Chinese, Python, Java, SQL.
 
-- 
-Check Mark Button
-
-A check mark that displays with a white outlined appearance. Shows on ...
 
 
 <!---
