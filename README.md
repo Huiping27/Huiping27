@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Huiping.
-- 💞️ I’m looking to collaborate on data Analytics and AI projects,available both on site and virtual.
+- 💞️ I’m looking to collaborate on software development and AI projects,available both on site and virtual.
 - ✅ Languages: English, German,Mandarin || Python, Java, SQL || BPMN, Kaban, UML.
 
 
