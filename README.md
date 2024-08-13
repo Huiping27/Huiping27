@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Huiping.
-- 💞️ I’m looking to collaborate on software development and AI projects,available both on site and virtual.
-- ✅ Languages: Python, Java,JavaScript, SQL
+- ✅ Languages: Python, Java,JavaScript, SQL, NoSQL
+- 🎨 :Pandas, Numpy, ML, Pytorch, Mongo DB, Flask, REST API, CPC.
 - 🚀 Scrum Projects: Jira, Kanban, UML.
 
 
