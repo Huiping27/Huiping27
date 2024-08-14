@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Huiping.
 - ✅ Languages: Python, Java,JavaScript, SQL, NoSQL
-- 🎨 :Pandas, Numpy, ML, Pytorch, Mongo DB, Flask, REST API, CPC.
+- 🎨 :React, Node, Pandas, Numpy, Sklearn, PyTorch, Mongo DB, Flask, REST API, CPC.
 - 🚀 Scrum Projects: Jira, Kanban, UML.
 
 
