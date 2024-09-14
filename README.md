@@ -1,5 +1,3 @@
-![Flowchart](https://github.com/user-attachments/assets/9324801a-5cc7-4b4d-9b19-f67647fc388c)
-
 
 
 - 👋 Hi, I’m Huiping.
@@ -7,6 +5,8 @@
 - 🎨 Pandas, SQL, NoSQL, Numpy, Sklearn, PyTorch, Mongo DB, Flask, REST API, GPC.
 - 🚀 Scrum: Jira, Kanban, UML.
 
+
+![Flowchart (1)](https://github.com/user-attachments/assets/8942c5de-ab69-4309-961f-40b07b9ee4e8)
 
 
 <!---
