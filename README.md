@@ -1,9 +1,11 @@
 
 
 - 👋 Hi, I’m Huiping.
-- ✅ Languages: Python, C, Java, JavaScript, TypeScript, html, css.
-- 🎨 Pandas, SQL, NoSQL, Numpy, Sklearn, PyTorch, Mongo DB, Flask, REST API, GPC.
-- 🚀 Scrum: Jira, Kanban, UML.
+- 🚀 : Data-driven Marketer.
+- ✅ Languages: DE/EN.
+- Marketing Tools: Google Ads, Google Analytics, Google Tag Manager, FB Pixel, FB Ads Manager, SEO.
+- 🎨 Data Analytics Tools: Power BI, Tableau, Excel, SQL, NoSQL, Numpy, Sklearn, PyTorch, Mongo DB, Flask, REST API, GPC.
+
 
 
 ![Flowchart (1)](https://github.com/user-attachments/assets/8942c5de-ab69-4309-961f-40b07b9ee4e8)
