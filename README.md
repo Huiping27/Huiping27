@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Huiping.
 - 🚀 Data-driven Marketer | Business Analyst.
-- ✅ Languages: DE/EN.
+- ✅ Languages: Mandarin, DE, EN.
 - Marketing Tools: Google Ads, Google Analytics, Google Tag Manager, FB Pixel, FB Ads Manager, SEO.
 - 🎨 Data Analytics Tools: Power BI, Tableau, Excel, SQL, NoSQL, Numpy, Sklearn, PyTorch, Mongo DB, Flask, REST API, GPC.
 
